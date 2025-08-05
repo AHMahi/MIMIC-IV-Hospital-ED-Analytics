@@ -90,6 +90,14 @@ PhysioNet hosts a wide range of datasets including EHRs, physiologic signals, im
 
 ---
 
+**Q: What is MC-MED?**
+
+MC-MED is a large, de-identified, multimodal clinical and physiological dataset of **118,385 adult ED visits (70,545 patients)** from the Stanford ED (Sep 2020–Sep 2022). It uniquely combines continuous high-frequency monitoring (waveforms/vital signs) with electronic health record (EHR) data, supporting advanced research in emergency medicine, monitoring, and machine learning.
+
+Multimodal clinical monitoring refers to the practice of collecting and analysing multiple types of patient data at the same time to get a comprehensive view of a patient's health status, especially in acute or emergency settings.
+
+---
+
 **Q: What makes MC-MED unique?**
 
 - Only dataset with continuous waveform monitoring for a large, diverse ED population (not just ICU)  
@@ -125,14 +133,6 @@ PhysioNet hosts a wide range of datasets including EHRs, physiologic signals, im
 **Q: Can I link labs to waveform segments and clinical outcomes?**
 
 - Yes — everything is linkable via CSN (visit ID) or MRN (patient ID)
-
----
-
-**Q: What is MC-MED?**
-
-MC-MED is a large, de-identified, multimodal clinical and physiological dataset of **118,385 adult ED visits (70,545 patients)** from the Stanford ED (Sep 2020–Sep 2022). It uniquely combines continuous high-frequency monitoring (waveforms/vital signs) with electronic health record (EHR) data, supporting advanced research in emergency medicine, monitoring, and machine learning.
-
-Multimodal clinical monitoring refers to the practice of collecting and analysing multiple types of patient data at the same time to get a comprehensive view of a patient's health status, especially in acute or emergency settings.
 
 ---
 
