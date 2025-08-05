@@ -2,7 +2,7 @@
 
 ---
 
-## 📚 Multimodal Clinical Monitoring in the Emergency Department (MC-MED)
+## Multimodal Clinical Monitoring in the Emergency Department (MC-MED)
 
 **Authors**: Aman Kansal, Emma Chen, Tom Jin, Pranav Rajpurkar, David Kim  
 **Published**: March 3, 2025 (PhysioNet page & DOI)  
@@ -14,13 +14,13 @@
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 **Reducing Emergency Department Overcrowding and Improving Resource Allocation.**
 
 ---
 
-## 🩺 Problem Overview
+## Problem Overview
 
 1. Missed Early Patient Deterioration  
 2. Unexpected ED overcrowding  
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 Data Source and Tools
+## Data Source and Tools
 
 I collected data from “PhysioNet” which is a major online repository of freely available medical research data, managed by the MIT Laboratory for Computational Physiology.
 
@@ -146,7 +146,7 @@ The study was approved by the Stanford University Institutional Review Board (58
 
 ---
 
-## 📑 Citations – APA Style
+## Citations – APA Style
 
 > Kansal, A., Chen, E., Jin, T., Rajpurkar, P., & Kim, D. (2025). *Multimodal Clinical Monitoring in the Emergency Department (MC-MED)* (version 1.0.0). PhysioNet. RRID:SCR_007345. https://doi.org/10.13026/jz99-4j81
 
