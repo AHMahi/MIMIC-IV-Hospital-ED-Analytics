@@ -48,7 +48,7 @@ Most files are provided in CSV format. Using mainly ICD9 and ICD10 (Internationa
 
 ---
 
-## 🗂 MC-MED Dataset Overview
+## MC-MED Dataset Overview
 
 ### 1. Structured EHR Data
 
