@@ -12,6 +12,8 @@
 **Download**: ~480 GB uncompressed; ZIP file (269.6GB)  
 **GitHub tools & demos**: [dkimlab/MCMED](https://github.com/dkimlab/MCMED)
 
+📁 Due to GitHub's file size limits, datasets are not stored in this repo.
+🔗 Access it directly from [PhysioNet – MC-MED](https://physionet.org/content/mc-med/)
 ---
 
 ## Project Objective
