@@ -17,7 +17,7 @@ This dataset contains:
 - Vital signs  
 - Physiologic waveforms  
 
-Most files are provided in CSV format. Using mainly ICD9 and ICD10 (International Classification of Diseases Ninth and tenth revision). All necessary datasets have also been deidentified.
+Most files are provided in CSV format. Using mainly ICD9 and ICD10 (International Classification of Diseases Ninth and tenth revision). All necessary datasets have also been deidentified to protect patient privacy.
 
 ---
 
