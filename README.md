@@ -1,28 +1,7 @@
-# 🏥 MIMIC-IV-ED Hospital ED Analytics
-
----
-
-## Multimodal Clinical Monitoring in the Emergency Department (MC-MED)
+## Multimodal Clinical Monitoring in the Emergency Department (MC-MED) - Dataset information & structure
 
 📁 Due to GitHub's file size limits, datasets are not stored in this repo.
 🔗 Access it directly from [PhysioNet – MC-MED](https://physionet.org/content/mc-med/)
----
-
-## Project Objective
-
-**Reducing Emergency Department Overcrowding and Improving Resource Allocation.**
-
----
-
-## Problem Overview
-
-1. Missed Early Patient Deterioration  
-2. Unexpected ED overcrowding  
-3. Resource Misallocation for Acuity Levels  
-4. Predicting Admissions & Dispositions  
-5. Disproportionate Resource Use by Frequent ED Patients
-
-**Possible Stakeholders**: ED Nursing Manager, Emergency Physicians, Hospital Executive Team.
 
 ---
 
@@ -137,7 +116,7 @@ All patient and visit identifiers were replaced with random codes, and ages and 
 The study was approved by the Stanford University Institutional Review Board (58581) with waiver of consent for retrospective research on de-identified, routinely collected data.
 
 ---
-**Authors**: Aman Kansal, Emma Chen, Tom Jin, Pranav Rajpurkar, David Kim  
+**DataSet Authors**: Aman Kansal, Emma Chen, Tom Jin, Pranav Rajpurkar, David Kim  
 **Published**: March 3, 2025 (PhysioNet page & DOI)  
 **Corresponding Author**: David Kim (Stanford)  
 **License**: PhysioNet Credentialed Health Data License 1.5.0  
