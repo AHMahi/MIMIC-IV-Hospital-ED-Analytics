@@ -4,14 +4,6 @@
 
 ## Multimodal Clinical Monitoring in the Emergency Department (MC-MED)
 
-**Authors**: Aman Kansal, Emma Chen, Tom Jin, Pranav Rajpurkar, David Kim  
-**Published**: March 3, 2025 (PhysioNet page & DOI)  
-**Corresponding Author**: David Kim (Stanford)  
-**License**: PhysioNet Credentialed Health Data License 1.5.0  
-**Access**: Credentialed users, DUA, required CITI training  
-**Download**: ~480 GB uncompressed; ZIP file (269.6GB)  
-**GitHub tools & demos**: [dkimlab/MCMED](https://github.com/dkimlab/MCMED)
-
 📁 Due to GitHub's file size limits, datasets are not stored in this repo.
 🔗 Access it directly from [PhysioNet – MC-MED](https://physionet.org/content/mc-med/)
 ---
@@ -145,7 +137,13 @@ All patient and visit identifiers were replaced with random codes, and ages and 
 The study was approved by the Stanford University Institutional Review Board (58581) with waiver of consent for retrospective research on de-identified, routinely collected data.
 
 ---
-
+**Authors**: Aman Kansal, Emma Chen, Tom Jin, Pranav Rajpurkar, David Kim  
+**Published**: March 3, 2025 (PhysioNet page & DOI)  
+**Corresponding Author**: David Kim (Stanford)  
+**License**: PhysioNet Credentialed Health Data License 1.5.0  
+**Access**: Credentialed users, DUA, required CITI training  
+**Download**: ~480 GB uncompressed; ZIP file (269.6GB)  
+**GitHub tools & demos**: [dkimlab/MCMED](https://github.com/dkimlab/MCMED)
 ---
 
 ## Citations – APA Style
